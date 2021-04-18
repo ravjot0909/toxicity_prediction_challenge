@@ -1,6 +1,7 @@
 **Toxicity Prediction challenge - (Kaggle competition)**
  
 **Authors**:   _**Ravjot Singh**_ (202005149), _**Raghava Akula**_ (202003025) 
+
      Email id: x2020fjv@stfx.ca, x2020dxm@stfx.ca 
 ***********************************************************************************************************************************
 
