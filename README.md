@@ -1,4 +1,4 @@
-** Toxicity Prediction challenge - (Kaggle competition)******
+**Toxicity Prediction challenge - (Kaggle competition)
  
 **Authors**:
 	Name: Ravjot Singh, Raghava Akula 
