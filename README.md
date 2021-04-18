@@ -10,7 +10,9 @@ This competition is used as a final project for our Data mining and machine lear
 ************************************************************************************************************************************
 **Path for getting the dataset**:
 **Feature matrix:**     https://www.kaggle.com/c/the-toxicity-prediction-challenge/data?select=feamat.csv 
+
 **Training dataset:**   https://www.kaggle.com/c/the-toxicity-prediction-challenge/data?select=train.csv 
+
 **Testing dataset:**    https://www.kaggle.com/c/the-toxicity-prediction-challenge/data?select=test.csv 
 
 *************************************************************************************************************************************
