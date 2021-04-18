@@ -1,5 +1,6 @@
- Toxicity Prediction challenge - (Kaggle competition)
-Author:
+** Toxicity Prediction challenge - (Kaggle competition)******
+ 
+**Authors**:
 	Name: Ravjot Singh, Raghava Akula 
 	Student Id: 202005149, 202003025
 	Email id: x2020fjv@stfx.ca, x2020dxm@stfx.ca 
@@ -16,5 +17,10 @@ Testing dataset:    https://www.kaggle.com/c/the-toxicity-prediction-challenge/d
 
 *************************************************************************************************************************************
 
+Path for the Code: https://github.com/ravjot0909/toxicity_prediction_challenge/blob/main/toxicity_prediction_final.ipynb
+
+*************************************************************************************************************************************
+
 Website: https://www.kaggle.com/c/the-toxicity-prediction-challenge 
+
 *************************************************************************************************************************************
